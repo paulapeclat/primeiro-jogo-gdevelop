@@ -1,3 +1,5 @@
+**🇧🇷 Português** · [🇺🇸 English](README.en.md)
+
 # 🎮 Oficina: Meu Primeiro Jogo em GDevelop
 
 > Roteiro completo de oficina para crianças criarem seu primeiro jogo digital — do zero ao jogável em 2 horas, sem escrever código.

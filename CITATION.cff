@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "Se este material foi útil no seu trabalho ou pesquisa, cite-o assim:"
+title: "Oficina: Meu Primeiro Jogo em GDevelop"
+authors:
+  - family-names: Peclat
+    given-names: Paula
+    orcid: "https://orcid.org/0009-0008-6535-7090"
+version: 1.0.0
+date-released: 2026-07-04
+repository-code: "https://github.com/paulapeclat/primeiro-jogo-gdevelop"
+license: CC-BY-SA-4.0
+keywords:
+  - oficina
+  - gdevelop
+  - educacao-midiatica
+  - criancas
+  - game-design
+abstract: >-
+  Roteiro completo de oficina (2h, 8-12 anos) para crianças criarem seu primeiro jogo digital no GDevelop, com fechamento de leitura crítica de mídia e alinhamento à BNCC.

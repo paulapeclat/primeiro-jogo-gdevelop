@@ -1,0 +1,54 @@
+name: 🍎 Relato de oficina
+description: Levou esta oficina para sua turma? Conte como foi — cada relato ajuda outra pessoa educadora a se jogar.
+title: "[Relato] "
+labels: ["relato-de-oficina"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Que alegria ter você por aqui! 💛 Não existe relato pequeno: duas linhas já ajudam.
+        Preencha só o que quiser — apenas o primeiro campo é obrigatório.
+  - type: textarea
+    id: como-foi
+    attributes:
+      label: Como foi a oficina?
+      description: O que funcionou? O que surpreendeu? Alguma fala de criança que valha registrar (sem identificar ninguém)?
+      placeholder: "Fizemos em 2 encontros com uma turma de 5º ano..."
+    validations:
+      required: true
+  - type: input
+    id: contexto
+    attributes:
+      label: Contexto
+      description: Escola pública/privada, projeto social, aula particular, cidade/estado — como preferir contar.
+      placeholder: "Escola municipal, Duque de Caxias/RJ"
+    validations:
+      required: false
+  - type: input
+    id: turma
+    attributes:
+      label: Faixa etária e tamanho da turma
+      placeholder: "9-10 anos, 20 crianças"
+    validations:
+      required: false
+  - type: textarea
+    id: adaptacoes
+    attributes:
+      label: O que você adaptou (ou adaptaria)?
+      description: Mudou tempos, etapas, regras? Suas adaptações podem virar melhorias no roteiro.
+    validations:
+      required: false
+  - type: textarea
+    id: fechamento
+    attributes:
+      label: E a conversa de fechamento?
+      description: A leitura crítica rendeu? Que perguntas as crianças trouxeram sobre quem decide as regras dos jogos?
+    validations:
+      required: false
+  - type: checkboxes
+    id: permissao
+    attributes:
+      label: Permissão
+      options:
+        - label: Autorizo citar trechos deste relato (com crédito) em materiais sobre a oficina
+          required: false
