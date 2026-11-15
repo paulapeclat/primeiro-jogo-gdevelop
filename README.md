@@ -2,6 +2,8 @@
 
 # 🎮 Oficina: Meu Primeiro Jogo em GDevelop
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24238312.svg)](https://doi.org/10.5281/zenodo.24238312)
+
 > Roteiro completo de oficina para crianças criarem seu primeiro jogo digital — do zero ao jogável em 2 horas, sem escrever código.
 
 **Autora:** [Paula Peclat](https://github.com/paulapeclat) · [APedê Digital](https://paulapeclat.com.br)

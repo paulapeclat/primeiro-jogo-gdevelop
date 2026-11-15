@@ -2,6 +2,8 @@
 
 # 🎮 Workshop: My First Game in GDevelop
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24238312.svg)](https://doi.org/10.5281/zenodo.24238312)
+
 > A complete workshop script for children to create their first digital game — from zero to playable in 2 hours, without writing code.
 
 **Author:** [Paula Peclat](https://github.com/paulapeclat) · [APedê Digital](https://paulapeclat.com.br)
