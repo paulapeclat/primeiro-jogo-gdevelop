@@ -1,0 +1,29 @@
+{
+  "title": "Oficina: Meu Primeiro Jogo em GDevelop",
+  "upload_type": "lesson",
+  "description": "<p>Roteiro completo de oficina (2h, 8 a 12 anos) para crianças criarem seu primeiro jogo digital no GDevelop sem escrever código, com fechamento de leitura crítica de mídia e alinhamento à Competência Geral 5 da BNCC. Material bilíngue (português e inglês).</p>",
+  "creators": [
+    {
+      "name": "Peclat, Paula",
+      "affiliation": "Educação Tecnológica Paula Peclat",
+      "orcid": "0009-0008-6535-7090"
+    }
+  ],
+  "license": "cc-by-sa-4.0",
+  "language": "por",
+  "keywords": [
+    "oficina",
+    "GDevelop",
+    "educação midiática",
+    "infância",
+    "game design",
+    "BNCC"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/paulapeclat/primeiro-jogo-gdevelop",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    }
+  ]
+}
